@@ -19,4 +19,4 @@
 
 ## Запуск
 
-Открой `index.html` в браузере или используй [GitHub Pages](https://pages.github.com/).
+https://artandarm.github.io/ClickBI/
